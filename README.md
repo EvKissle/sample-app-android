@@ -1,4 +1,4 @@
-Android
+Android Sample App
 
 Example App using Zoom Android SDK - https://zoom.us/developer/overview/android-rtc-stack-quickstart
 
